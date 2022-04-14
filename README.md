@@ -1,10 +1,6 @@
 # API, REST e RESTFUL
 
 
-Cliente (client)
-Garçon (pedidos, levar seus pedidos, para a cozinha)(API)
-Cozinha(Server)
-
 Oque é (API) Acronimo de Application Programing Interface (Interface de Programação de Aplicações) é basicamente um conjunto de rotinas e padrões estabelecidos por uma aplicação, para que outras aplicações possam utilizar as funcionalidades desta aplicação.
 
 - Responsável por estabelecer comunicação entre diferentes serviços.
